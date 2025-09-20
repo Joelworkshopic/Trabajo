@@ -8,11 +8,11 @@
 
 ---
 
-## Descripción del proyecto
+## Descripción
 
 Proyecto hecho para el curso de JavaScript ONE G9.
 
-## Características de la aplicación y demostración
+## Características
 
 La aplicación cuenta con un campo de entrada de texto en el cuál podemos escribir el nombre de los amigos que queramos sortear
 
