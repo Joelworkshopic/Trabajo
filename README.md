@@ -8,16 +8,16 @@ Proyecto hecho para el curso de JavaScript ONE G9.
 
 ## Características
 
-La aplicación cuenta con un campo de entrada de texto en el cuál podemos escribir el nombre de los amigos que queramos sortear
+ El trabajo cuenta con un campo de entrada de texto en el cuál podemos escribir el nombre de los amigos que queramos sortear
 
 <img width="947" height="540" alt="Captura de pantalla (5)" src="https://github.com/user-attachments/assets/e1a8f84e-2626-4863-a04f-b32008c53f15" />
 
-Una vez ingresado el nombre, podemos dar click en el botón a la derecha "Añadir". El nombre se añadirá a la lista para que pueda ser sorteado.
+Ingresado el nombre, damos click en el botón a la derecha "Añadir". El nombre se añadirá a la lista para que pueda ser sorteado.
 Podemos añadir todos los nombres que queramos.
 
 <img width="997" height="563" alt="Captura de pantalla (6)" src="https://github.com/user-attachments/assets/1a629ce5-e30b-4983-88ec-56b4ddae6f32" />
 
-Una vez terminado el ingreso de todos los nombres, podemos hacer click en el botón "Sortear amigo" de naranja, el cuál seleccionará un nombre al
+Una vez ingresado los nombres deseados, podemos hacer click en el botón "Sortear amigo", el cuál seleccionará un nombre al
 azar de la lista y te lo indicará en color verde. (Cada que sorteemos un amigo secreto, la lista se vaciará por lo que no podremos sortear otro nombre hasta volver a añadir
 más nombres a la lista)
 
