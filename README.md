@@ -1,10 +1,4 @@
 # Trabajo
-## Índice
-- [Descripción del proyecto](#descripción-del-proyecto)
-- [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
-- [Acceso al proyecto](#acceso-al-proyecto)
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
-- [Licencia](#licencia)
 
 ---
 
